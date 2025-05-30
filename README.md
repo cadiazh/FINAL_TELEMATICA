@@ -13,5 +13,7 @@ Este proyecto implementa un servidor DNS usando BIND sobre una instancia EC2 de 
 ✔ Zona inversa  
 ✔ Validación con herramientas de diagnóstico
 
+## Video demostración 
+https://youtu.be/rsPeM1ju1Y0
 ## Conclusiones
 Implementar DNS en la nube permitió aplicar conceptos reales de redes.
